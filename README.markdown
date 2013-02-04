@@ -11,11 +11,11 @@ This is a discogs client designed to display users' collections.
 It's currently in development by [josue](http://josuesalazar.net).
 
 ##Future features
--grouping by genre, and other filters
--zooming in to a record when double clicking
--playing a video/audio clip somehow after a click
--more than 100 at a time
--style tweaks (fitting full album titles better) 
+* grouping by genre, and other filters
+* zooming in to a record when double clicking
+* playing a video/audio clip somehow after a click
+* more than 100 at a time
+* style tweaks (fitting full album titles better) 
 
  
 Tech: backbone.js, require.js, jquery, bootstrap, jasmine, node, three.js, tween.js, trackballgestures, css3drenderer
