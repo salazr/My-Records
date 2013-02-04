@@ -19,7 +19,7 @@ It's currently in development by [josue](http://josuesalazar.net).
 
  
 Tech: backbone.js, require.js, jquery, bootstrap, jasmine, node, three.js, tween.js, trackballgestures, css3drenderer
-Credits: three.js css3d periodic table demo
+<br />Credits: three.js css3d periodic table demo
 
 ###Running this locally
    1. Download and install [Node.js](http://nodejs.org/#download)
@@ -34,7 +34,7 @@ Credits: three.js css3d periodic table demo
 
 ####Credit
 Greg Franko for the Backbone.js Require.js Boilerplate
-THREE.js project for the scene frameworks and renderers
+<br />THREE.js project for the scene frameworks and renderers
 
 ##### License
 Copyright (c) 2013 Josue Salazar
