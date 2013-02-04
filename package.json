@@ -1,0 +1,30 @@
+{
+  "name": "my-records",
+  "title": "My Records",
+  "description": "A discogs client designed to display users' collections",
+  "version": "1.0",
+  "homepage": "http://salazarstudios.com/myrecords",
+  "author": {
+    "name": "Josue Salazar",
+    "email": "josue@salazarstudios.com",
+    "url": "http://www.josuesalazar.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+    "express": "3.x"
+  },
+  "main": "./server/server",
+  "keywords": ["discogs", "backbone.js", "three.js", "require.js"]
+}
