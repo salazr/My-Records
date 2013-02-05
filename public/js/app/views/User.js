@@ -87,6 +87,7 @@ define(["jquery", "backbone", "models/Record", "models/User", "collections/Colle
                                 }, 
                                 error: function(c,response){
                                     console.log(response)
+                                    $('header h1').html("There was an error retrieving data from discogs, the request timed out. Try again.");
 
                                 } 
                  });  
