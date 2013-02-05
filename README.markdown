@@ -1,7 +1,7 @@
 My Records (discogs client)
 ==================================
 
-![Screenshot](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/542833_10151410091917287_2066860662_n.jpg)
+![Screenshot](https://dl.dropbox.com/u/371704/myrecords.jpg)
 
 [Website](http://salazarstudios.com/myrecords)
 
